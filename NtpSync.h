@@ -1,3 +1,10 @@
+//
+//  NtpSync.h
+//
+//  Author: Filippin luca
+//  luca.filippin@gmail.com
+//
+
 #ifndef __NTPSYNC_H__
 #define __NTPSYNC_H__
 

@@ -1,7 +1,8 @@
 //
 //  NtpSync.c
 //
-//  Created by luca on 15/06/2012.
+//  Author: Filippin luca
+//  luca.filippin@gmail.com
 //
 //  Note: this actually implements Cristian Synchronisation Algorithm on top of NTP.
 //  The precision is set to be below 1 ms and clock is slewed over 1 second after
@@ -11,8 +12,10 @@
 //  affects the measurement, the delay between a send and a receive is taken in
 //  account a evaluated as an index of reliability of the measurement.
 //
-//  Build:
-// /Developer/usr/bin/clang -shared -arch i386 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fpic DebugUtil.c NtpSync.c -lc -lpthread -framework CoreServices -o libNtpSync.dylib
+//  To build on OS X:
+//  clang -shared -arch i386 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk
+//        -fpic DebugUtil.c NtpSync.c -lc -lpthread -framework CoreServices
+//        -o libNtpSync.dylib
 
 #include <sys/time.h>
 #include <stdio.h>

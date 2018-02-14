@@ -1,3 +1,10 @@
+#
+#  NtpSyncTest.py
+#
+#  Author: Filippin luca
+#  luca.filippin@gmail.com
+#
+
 from argparse import ArgumentParser
 import NtpSyncPy as nsp
 import numpy as np

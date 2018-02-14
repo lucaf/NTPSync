@@ -1,3 +1,10 @@
+//
+//  UdpConn.h
+//
+//  Author: Filippin luca
+//  luca.filippin@gmail.com
+//
+
 #ifndef __UDPCONN_H__
 #define __UDPCONN_H__
 

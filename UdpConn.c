@@ -1,9 +1,8 @@
 //
 //  UdpConn.c
 //
-//  Created by luca on 15/06/2012.
-//
-//  Simple udp connection manager.
+//  Author: Filippin luca
+//  luca.filippin@gmail.com
 //
 
 #include <arpa/inet.h>

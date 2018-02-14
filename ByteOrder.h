@@ -1,3 +1,10 @@
+//
+//  ByteOrder.h
+//
+//  Author: Filippin luca
+//  luca.filippin@gmail.com
+//
+
 #ifndef __BYTEORDER_H__
 #define __BYTEORDER_H__
 

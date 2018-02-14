@@ -1,11 +1,9 @@
-/*
- *  DebugUtils.h
- *  PsyScopeX
- *
- *  Created by lucaf on 07/03/2009.
- *  Copyright 2009Language, Cognition and  Development Laboratory, Sissa, Trieste. All rights reserved. All rights reserved.
- *
- */
+//
+//  ByteOrder.h
+//
+//  Author: Filippin luca
+//  luca.filippin@gmail.com
+//
 
 #ifndef __DEBUG_UTIL_H__
 

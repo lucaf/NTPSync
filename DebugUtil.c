@@ -1,9 +1,8 @@
 //
-//  DebugUtil.c
-//  PsyScopeX
+//  ByteOrder.h
 //
-//  Created by luca on 01/06/2012.
-//  Copyright 2012 SISSA/ISAS Trieste. All rights reserved.
+//  Author: Filippin luca
+//  luca.filippin@gmail.com
 //
 
 #include <stdio.h>
